@@ -1,0 +1,12 @@
+requirements
+
+pandas==2.1.1
+numpy==1.26.0
+matplotlib==3.8.1
+seaborn==0.12.2
+scipy==1.11.3
+jupyter==1.0.0
+
+Make sure to adjust the package versions according to your environment by running
+ pip freeze > requirements.txt in your working directory.
+
